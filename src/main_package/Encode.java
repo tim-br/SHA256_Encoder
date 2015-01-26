@@ -3,7 +3,7 @@ package main_package;
 import java.security.*;
 import java.io.*;
 
-class Encode {
+public class Encode {
 
     MessageDigest message_digest;
     byte[] hash;
